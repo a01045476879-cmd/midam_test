@@ -1,0 +1,6 @@
+{
+  "name": "Midam교육 연구소",
+  "description": "AI 실무 교육 및 컴퓨터 OA 교육 전문 Midam교육 연구소 공식 반응형 웹사이트",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
